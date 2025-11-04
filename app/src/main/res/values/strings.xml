@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalmMind</string>
+    <string name="escolha_seu_som_para_descansar">Escolha seu som para descansar!</string>
+    <string name="chuva">Chuva</string>
+    <string name="natureza">Natureza</string>
+    <string name="relaxante">Relaxante</string>
+    <string name="parar">Parar</string>
+</resources>
