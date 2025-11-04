@@ -2,7 +2,6 @@ package com.example.calmmind;
 
 import android.media.MediaPlayer;
 import android.os.Bundle;
-import android.os.Handler;
 import android.view.View;
 import android.widget.Button;
 
